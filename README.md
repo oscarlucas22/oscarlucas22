@@ -2,7 +2,7 @@
 
 My name is Óscar, I am from Spain and I am a student at ASIR.
 
-* I leave here [my personal blog](lucas-blog.onrender.com/) where I upload the projects I'm doing.
+* I leave here [my personal blog](https://lucas-blog.onrender.com/) where I upload the projects I'm doing.
 
 ## Courses 📜
 
